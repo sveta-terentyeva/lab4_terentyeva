@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab4_terentyeva",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lab4_terentyeva::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab4_terentyeva-Debug-9e3556f8116e790056f3.json",
+					"name" : "lab4_terentyeva",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/sveta/Documents/Studying/\u041f\u0430\u0440\u0430\u043b\u0435\u043b\u044c\u043d\u0456 \u043e\u0431\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044f/lab4_terentyeva/cmake-build-debug",
+		"source" : "/Users/sveta/Documents/Studying/\u041f\u0430\u0440\u0430\u043b\u0435\u043b\u044c\u043d\u0456 \u043e\u0431\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044f/lab4_terentyeva"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
